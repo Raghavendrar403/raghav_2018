@@ -1,0 +1,16 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[1] Config.pm:305> INFO - Logfile is 'latex2.blg'
+[41] biber:313> INFO - === Wed Mar 14, 2018, 18:00:32
+[69] Biber.pm:371> INFO - Reading 'latex2.bcf'
+[155] Biber.pm:857> INFO - Found 1 citekeys in bib section 0
+[176] Biber.pm:3976> INFO - Processing section 0
+[191] Biber.pm:4136> INFO - Looking for bibtex format file 'mybib.bib' for section 0
+[191] bibtex.pm:1454> INFO - Reading ascii input as UTF-8
+[192] bibtex.pm:1500> INFO - LaTeX decoding ...
+[195] bibtex.pm:1316> INFO - Found BibTeX data source 'mybib.bib'
+[219] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[219] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[219] Biber.pm:3804> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[219] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[222] bbl.pm:617> INFO - Writing 'latex2.bbl' with encoding 'ascii'
+[223] bbl.pm:720> INFO - Output to latex2.bbl

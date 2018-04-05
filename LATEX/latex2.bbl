@@ -1,0 +1,49 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Raghavendr}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=18389fef9a7553aea2470974f89a6e29}{%
+           family={Raghavendr},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Reidel Publishing Company}%
+      }
+      \strng{namehash}{18389fef9a7553aea2470974f89a6e29}
+      \strng{fullhash}{18389fef9a7553aea2470974f89a6e29}
+      \strng{bibnamehash}{18389fef9a7553aea2470974f89a6e29}
+      \strng{authorbibnamehash}{18389fef9a7553aea2470974f89a6e29}
+      \strng{authornamehash}{18389fef9a7553aea2470974f89a6e29}
+      \strng{authorfullhash}{18389fef9a7553aea2470974f89a6e29}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Making LaTeX documents}
+      \field{year}{2012}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
